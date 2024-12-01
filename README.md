@@ -1,6 +1,6 @@
 # Work in progress
 ## 0: Credits:
-:- [@woodenCaliper] (ttps://github.com/woodenCaliper/CycloidalDrive) for cycloidal drive generator  
+:- [@woodenCaliper] (https://github.com/woodenCaliper/CycloidalDrive) for cycloidal drive generator  
 Connor Luce for BLDC tips
 
 ## 1: Description
