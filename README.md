@@ -9,7 +9,7 @@ Y: File type classifier (Numbers)
 ZZ: Part number (Numbers)  
 NAME: Descriptive file name in Title Capitalization Form  
 
-### 2.1: Module IDs
+### 2.1: Module IDs 
 BLDC: Brushless DC Motor 
 CYC: Internal Cycloidal Gearbox 
 ESC: Motor Driver 
