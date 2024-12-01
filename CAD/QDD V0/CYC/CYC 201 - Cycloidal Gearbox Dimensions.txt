@@ -1,0 +1,2 @@
+﻿"RingPinShaft"= 5
+"CenterBearingOut"=32"RingPostIn"=5
