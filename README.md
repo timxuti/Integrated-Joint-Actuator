@@ -24,8 +24,8 @@ ESC: Motor Driver
 2: Equation.txt files  
 3: Drawings  
 4: Individual parts  
-5: Wiring, piping, tubing, and weldments  
-6: Test fit files
+5: Wiring, piping, tubing, and weldments   
+6: Test fit files  
 7: Solidworks FEA Simulation Files  
 8: Solidworks VISUALIZE files  
 9: Manufacturing files (3MF, STL, DXF, GCODE)  
