@@ -1,2 +1,2 @@
 ﻿"RingPinShaft"= 5
-"CenterBearingOut"=32"RingPostIn"=5"CamBearingOut"=15.15"DiskOutputShaft"=10"CenterShaft"=25"Eccentricity"=2"CycCamShaft"=10
+"CenterBearingOut"=32.125"OutputBearingOut"=37.125"RingPostIn"=5.125"CamBearingOut"=15.125"DiskOutputShaft"=10"CenterShaft"=25"Eccentricity"=2"CycCamShaft"=10
