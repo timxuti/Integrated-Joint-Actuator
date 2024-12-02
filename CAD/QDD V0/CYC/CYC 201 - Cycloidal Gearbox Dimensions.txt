@@ -1,2 +1,2 @@
 ﻿"RingPinShaft"= 5
-"CenterBearingOut"=32"RingPostIn"=5
+"CenterBearingOut"=32"RingPostIn"=5"CamBearingOut"=15.15"DiskOutputShaft"=10
