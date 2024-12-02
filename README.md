@@ -1,7 +1,6 @@
 # Work in progress
 ## 0: Credits:
 [woodenCaliper's Cycloidal Disk Generator](https://github.com/woodenCaliper/CycloidalDrive)  
-Connor Luce for BLDC tips
 
 ## 1: Description
 A repository for an open-sourced integrated joint actuator  
