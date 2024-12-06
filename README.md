@@ -1,7 +1,5 @@
 # Characterization in progress
-
-https://github.com/user-attachments/assets/cbb3ad6d-5085-4656-b967-f0710031439b
-
+https://github.com/user-attachments/assets/abecf40d-c09c-4362-a97f-e7e99f12459a
 
 ## 0: Credits:
 [woodenCaliper's Cycloidal Disk Generator](https://github.com/woodenCaliper/CycloidalDrive)  
