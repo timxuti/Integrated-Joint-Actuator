@@ -3,7 +3,7 @@ These are some prototypes and previous iterations of the QDD design. The README.
 
 ## V3: 12/12/2024 - ???
 Wallahi I am cooked for finals... Partial redesign - 11:1 gearbox, solid ring posts
-**WIP**
+**WIP**  
 
 
 ## V2: Integration Test, Pt 2 (12/6/2024 - 12/7/2024)
@@ -16,7 +16,7 @@ Slimmed-down package, functionally the same as V1. Printed with PLA/Unlubricated
 - Output shaft coupling assembly is overcomplicated
 - Output shaft getting destroyed
 - Screw heads stick out
-- Low-quality cam bearings
+- Low-quality cam bearings  
 
   
 ## V1: Integration Test (12/3/2024 - 12/5/2024)  
@@ -32,7 +32,7 @@ Integration test with BLDC motor (Mechanically feature complete). Printed with P
 - Output shaft coupling assembly is overcomplicated
 - Output shaft getting destroyed
 - Screw heads stick out
-- Low-quality cam bearings _(another one broke; perhaps should stop getting them from aliexpress)_
+- Low-quality cam bearings _(another one broke; perhaps should stop getting them from aliexpress)_  
 
   
 ## V0: Gearbox Only (12/1/2024 - 12/3/2024)  
@@ -45,7 +45,7 @@ Prototype gearbox design, driven by a drill. Printed with PLA/Unlubricated
 - Cycloidal disk output holes get cut off by cam bearing
 - ~~Output heat set insert only 3mm~~
 - ~~Screw heads stick out and interfere with rotation (the whole thing is literally friction fit lol)~~
-- Low-quality cam bearings. One blew up
+- Low-quality cam bearings. One blew up  
 
 
 
