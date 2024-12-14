@@ -1,32 +1,54 @@
-# QDD Version 2
-https://github.com/user-attachments/assets/abecf40d-c09c-4362-a97f-e7e99f12459a
+# Prototypes  
+These are some prototypes and previous iterations of the QDD design. The README.MD files in each version's subdirectory describe specific differences and design parameters.  
 
-## 0: Credits:
-[woodenCaliper's Cycloidal Disk Generator](https://github.com/woodenCaliper/CycloidalDrive)  
+## V3: 12/12/2024 - ???
+Wallahi I am cooked for finals... Partial redesign - 11:1 gearbox, solid ring posts
+**WIP**  
 
-## 1: Description
-A repository for an open-sourced integrated joint actuator  
 
-## 2: Subcomponents and File Naming
-Custom parts should obey the XXXX YZZ - NAME file number convention:  
-XXX: Module ID (Alphabetical)  
-Y: File type classifier (Numbers)  
-ZZ: Part number (Numbers)  
-NAME: Descriptive file name in Title Capitalization Form  
+## V2: Integration Test, Pt 2 (12/6/2024 - 12/7/2024)
+Slimmed-down package, functionally the same as V1. Printed with PLA/Unlubricated
+### Fixes:
+- Ngl I fixed pretty much nothing
+### Issues:
+- Gearbox binded up after running it really fast :skull:
+- Cycloidal disk output holes get cut off by cam bearing
+- Output shaft coupling assembly is overcomplicated
+- Output shaft getting destroyed
+- Screw heads stick out
+- Low-quality cam bearings  
 
-### 2.1: Module IDs  
-BLDC: Brushless DC Motor  
-CYC: Internal Cycloidal Gearbox  
-ESC: Motor Driver  
+  
+## V1: Integration Test (12/3/2024 - 12/5/2024)  
+Integration test with BLDC motor (Mechanically feature complete). Printed with PLA/Unlubricated
+### Fixes:
+- Added spacer between cycloidal disks
+- Retained camshaft
+- Added thickness to output, now with 8mm M3 heat set inserts
+- Added hex nut retainers to back of gearbox
+- Did not fix anything but added pretty cutouts <3
+### Issues:
+- **Cycloidal disk output holes get cut off by cam bearing**
+- Output shaft coupling assembly is overcomplicated
+- Output shaft getting destroyed
+- Screw heads stick out
+- Low-quality cam bearings _(another one broke; perhaps should stop getting them from aliexpress)_  
 
-### 2.2: File Classifiers
-0: Top-level assemblies (No more than 1)  
-1: Subassemblies  
-2: Equation.txt files  
-3: Drawings  
-4: Individual parts  
-5: Wiring, piping, tubing, and weldments   
-6: Test fit files  
-7: Solidworks FEA Simulation Files  
-8: Solidworks VISUALIZE files  
-9: Manufacturing files (3MF, STL, DXF, GCODE)  
+  
+## V0: Gearbox Only (12/1/2024 - 12/3/2024)  
+Prototype gearbox design, driven by a drill. Printed with PLA/Unlubricated
+### Issues:  
+- ~~Insane friction between cycloidal disks~~
+- ~~Middle camshaft not retained~~
+- Output shaft coupling assembly is complicated since 6706-2RS Bearings were the biggest ones I had on hand
+- Output shaft getting destroyed by cycloidal disks
+- Cycloidal disk output holes get cut off by cam bearing
+- ~~Output heat set insert only 3mm~~
+- ~~Screw heads stick out and interfere with rotation (the whole thing is literally friction fit lol)~~
+- Low-quality cam bearings. One blew up  
+
+
+
+
+
+
