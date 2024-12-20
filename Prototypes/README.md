@@ -1,7 +1,7 @@
 # Prototypes  
 These are some prototypes and previous iterations of the QDD design. The README.MD files in each version's subdirectory describe specific differences and design parameters.  
 
-## V3: WIP
+## V3: Working in progress (over winter break)  
 Wallahi I am cooked for finals... Partial redesign - 11:1 gearbox, solid ring posts
 **WIP**  
 
