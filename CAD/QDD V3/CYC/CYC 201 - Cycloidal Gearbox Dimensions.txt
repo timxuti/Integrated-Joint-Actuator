@@ -1,2 +1,2 @@
 ﻿"RingPinShaft"= 5.05
-"CenterBearingOut"=32.05"OutputBearingOut"=37.05"RingPostIn"=5.15"CamBearingOut"=15.1"DiskOutputShaft"=10.1"CenterShaft"=25.2"Eccentricity"=2"CycCamShaft"=10.05"m3Thru"=3.15"m3Insert"=4.2"MountingHoleDiam"=35
+"CenterBearingOut"=32.00"OutputBearingOut"=37.00"RingPostIn"=5.15"CamBearingOut"=15.1"DiskOutputShaft"=10.1"CenterShaft"=25.2"Eccentricity"=2"CycCamShaft"=10.05"m3Thru"=3.15"m3Insert"=4.2"MountingHoleDiam"=35
