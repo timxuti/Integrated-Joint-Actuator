@@ -1,5 +1,9 @@
 # Very Work In Progress
-https://github.com/user-attachments/assets/abecf40d-c09c-4362-a97f-e7e99f12459a
+
+https://github.com/user-attachments/assets/e8d6d4ec-93be-4f53-8b32-d929519e2786
+
+
+
 
 ## 0: Credits:
 [woodenCaliper's Cycloidal Disk Generator](https://github.com/woodenCaliper/CycloidalDrive)  
