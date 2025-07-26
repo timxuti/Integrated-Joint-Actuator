@@ -1,4 +1,4 @@
-# Another 3D-Printed Integrated Joint Actuator 
+# 3D-Printed Integrated Joint Actuator 
 
 <img width="3840" height="2160" alt="IJA 801 - Integrated Joint Actuator (7)" src="https://github.com/user-attachments/assets/568b3e46-83d2-45a8-a37c-cf5d1bcd158b" />
 
@@ -18,30 +18,29 @@ This is a complete redesign of everything. This iteration features a reduction o
 - Plastic can only take you so far ): cycloidal disk still fractures under load, considering changing to aluminum or acetal
 - ODrive S1 sticks out way too much, wanted to use ODrive Micro but out of stock ):
 - Wire still sticks out of motor and not encased  
-
+<br />
 
 ## Subcomponents and File Naming
 Custom parts should obey the XXXX YZZ - NAME file number convention:  
-XXX: Module ID (Alphabetical)  
-Y: File type classifier (Numbers)  
-ZZ: Part number (Numbers)  
-NAME: Descriptive file name in Title Capitalization Form  
+- XXX: Module ID (Alphabetical)  
+- Y: File type classifier (Numbers)  
+- ZZ: Part number (Numbers)  
+- NAME: Descriptive file name in Title Capitalization Form  
 
 ### Module IDs  
-BLDC: Brushless DC Motor  
-CYC: Internal Cycloidal Gearbox  
-COTS: Commercial Off the Shelf  
-ODS1: ODrive S1 Mounting  
-
+- BLDC: Brushless DC Motor  
+- CYC: Internal Cycloidal Gearbox  
+- COTS: Commercial Off the Shelf  
+- ODS1: ODrive S1 Mounting  
 
 ### File Classifiers
-0: Top-level assemblies (No more than 1)  
-1: Subassemblies  
-2: Equation.txt files  
-3: Drawings  
-4: Individual parts  
-5: Wiring, piping, tubing, and weldments   
-6: Test fit files  
-7: Solidworks FEA Simulation Files  
-8: Solidworks VISUALIZE files  
-9: Manufacturing files (3MF, STL, DXF, GCODE)  
+- 0: Top-level assemblies (No more than 1)  
+- 1: Subassemblies  
+- 2: Equation.txt files  
+- 3: Drawings  
+- 4: Individual parts  
+- 5: Wiring, piping, tubing, and weldments   
+- 6: Test fit files  
+- 7: Solidworks FEA Simulation Files  
+- 8: Solidworks VISUALIZE files  
+- 9: Manufacturing files (3MF, STL, DXF, GCODE)  
