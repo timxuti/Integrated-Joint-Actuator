@@ -1,6 +1,6 @@
 # Work In Progress
 
-https://github.com/user-attachments/assets/e8d6d4ec-93be-4f53-8b32-d929519e2786
+<img width="3840" height="2160" alt="IJA 801 - Integrated Joint Actuator (7)" src="https://github.com/user-attachments/assets/568b3e46-83d2-45a8-a37c-cf5d1bcd158b" />
 
 
 
