@@ -17,6 +17,7 @@ This is a complete redesign of everything. This iteration features a reduction o
 - Hard to print with FDM (lots of support and post-processing needed)
 - Plastic can only take you so far ): cycloidal disk still fractures under load, considering changing to aluminum or acetal
 - ODrive S1 sticks out way too much, wanted to use ODrive Micro but out of stock ):
+- Pins grind through cycloidal disk fast
 - Wire still sticks out of motor and not encased  
 <br />
 
