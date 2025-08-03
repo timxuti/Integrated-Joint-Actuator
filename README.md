@@ -5,7 +5,7 @@
 ## V5 (Current): Complete Redesign (07/22/25 - Current)
 This is a complete redesign of everything. This iteration features a reduction of 23:1, removed the ring post bearings for dowel pins, added a pair of 6710-2RS bearings for output shaft support, improved file structures, etcetcetc. TLDR this version should be actually not trash.
 ![IMG_0877](https://github.com/user-attachments/assets/01ec9199-839e-4878-a55a-4a04bc7202f9)
-
+Endurance tested for an hour of continuous operatopn, will test torque and holding endurance tomorrow. 
 ### Fixes:
 - Cycloidal disk fracturing
 - Redesigned the gearbox assembly completely, removing print quality issues with the outer wall
