@@ -1,10 +1,10 @@
 # 3D-Printed Integrated Joint Actuator 
 
-<img width="3840" height="2160" alt="IJA 801 - Integrated Joint Actuator (7)" src="https://github.com/user-attachments/assets/568b3e46-83d2-45a8-a37c-cf5d1bcd158b" />
+![IMG_0887](https://github.com/user-attachments/assets/9198d15b-d856-470a-8fa9-a0227071eb25)
+
 
 ## V5 (Current): Complete Redesign (07/22/25 - Current)
 This is a complete redesign of everything. This iteration features a reduction of 23:1, removed the ring post bearings for dowel pins, added a pair of 6710-2RS bearings for output shaft support, improved file structures, etcetcetc. TLDR this version should be actually not trash.
-![IMG_0877](https://github.com/user-attachments/assets/01ec9199-839e-4878-a55a-4a04bc7202f9)
 Broke my scale during the torque test, not sure how much the gearbox outputted. I will buy another scale and attempt it tomorrow.  
 ### Fixes:
 - Cycloidal disk fracturing
