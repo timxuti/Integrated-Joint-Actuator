@@ -1,5 +1,0 @@
-"HousingIn"=113
-
-"HousingOut"=124
-
-"FrontCutout"=36

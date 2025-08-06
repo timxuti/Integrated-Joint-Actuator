@@ -1,2 +1,0 @@
-﻿"RingPinShaft"= 5.05
-"CenterBearingOut"=32.05
