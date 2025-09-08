@@ -45,6 +45,6 @@ Custom parts should obey the XXXX YZZ - NAME file number convention:
 - 4: Individual parts  
 - 5: Wiring, piping, tubing, and weldments   
 - 6: Test fit files  
-- 7: Solidworks FEA Simulation Files  
+- 7: Misc. files (Textures, Scenarios, Simulations)   
 - 8: Solidworks VISUALIZE files  
 - 9: Manufacturing files (3MF, STL, DXF, GCODE)  
