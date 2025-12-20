@@ -1,29 +1,24 @@
 # 3D-Printed Integrated Joint Actuator 
 
-![IMG_0887](https://github.com/user-attachments/assets/9198d15b-d856-470a-8fa9-a0227071eb25)
+<img width="1549" height="1023" alt="image" src="https://github.com/user-attachments/assets/268dfcef-c98b-4cf3-8867-3965d3c084af" />
 
 
-## V5 (Current): Complete Redesign (07/22/25 - Current)
-This is a complete redesign of everything. This iteration features a reduction of 23:1, removed the ring post bearings for dowel pins, added a pair of 6710-2RS bearings for output shaft support, improved file structures, etcetcetc. TLDR this version should be actually not trash.
+## V6 (Current): Complete Redesign (12/14/25 - Current)
+Version 6 offers significantly improved performance over V5, with a 11:1 reduction, ironless halbach array rotor optimized with Ansys Motor-CAD and Ansys Maxwell, a 10020 stator instead of 10010, and significantly more compact motor controller mounting.
 
-![IMG_0877](https://github.com/user-attachments/assets/01ec9199-839e-4878-a55a-4a04bc7202f9)
-### Fixes:
-- Cycloidal disk fracturing
-- Redesigned the gearbox assembly completely, removing print quality issues with the outer wall
-- Fixed rotor clearance issues
-- Fixed rotor centering
-- Added moment support for output
-- No more heat-set insert for load-bearing parts, changed to M4 hex nut
-- Added proper ODrive S1 Mounting
-- Added bearings for output from inside cycloidal disks
-### Issues:
-- Hard to print with FDM (lots of support and post-processing needed)
-- Plastic can only take you so far ): cycloidal disk still fractures under load, considering changing to aluminum or acetal
-- ODrive S1 sticks out way too much, wanted to use ODrive Micro but out of stock ):
-- Pins grind through cycloidal disk fast
-- Wire still sticks out of motor and not encased  
-<br />
+The cycloidal disks and the ring pins are designed to be printed with iglide® i190-PF, whereas the structural parts are designed to be printed with PA6-CF.
 
+### Changes:
+- Changed reduction ratio to 11:1
+- Changed stator to 10020, and changed rotor to N52 Halbach array
+- Post processing issues fixed, removed hexnut cutouts from V5  
+- Fixed stability issues with tighter tolerances and thicker bearings
+- Removed set screws from offset cams and rotor
+- Fixed cycloidal disk fracture by printing with iglide
+- Significantly reduced weight by removing aluminum ring pins
+- Removed rotor back bearing and optimized ODrive S1 Mounting
+- Removed purely aesthetic surface pocketing
+  
 ## Subcomponents and File Naming
 Custom parts should obey the XXXX YZZ - NAME file number convention:  
 - XXX: Module ID (Alphabetical)  
